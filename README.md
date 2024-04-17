@@ -2,9 +2,7 @@ about me
   
   - pronouns: they/them
   
-  - epic game: valorant (horror), bandori, project sekai, muse dash, djmax respect, stardew valley, honkai starail, more...
-  
-  - thumbs up emoji: my FRIENDS. my GAMES. my PC. my FAN, and my DRAWINGS
+  - thumbs up emoji: games, pc, air conditioner
 
   - learning: everything
   can do a bit of hmtl, css, c++,javascript, markdown, and python (DO NOT ASK ME ABOUT C# I AM IN PAIN)
