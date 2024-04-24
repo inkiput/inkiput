@@ -2,10 +2,10 @@ about me
   
   - pronouns: they/them
   
-  - thumbs up emoji: games, pc, air conditioner
+  - thumbs up emoji: games, pc, air conditioner, my special acquaintances
 
   - learning: everything
-  can do a bit of hmtl, css, c++,javascript, markdown, and python (DO NOT ASK ME ABOUT C# I AM IN PAIN)
+  can do a bit of hmtl, css, c++, javascript, markdown, and python (DO NOT ASK ME ABOUT C# I AM IN PAIN)
 
   - how to reach me: ON HITHER! NAY SOCIALS! mine own mother hath said nay s'rry
   (eng: ON HERE! NO SOCIALS! my mom said no sorry)
