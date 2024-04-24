@@ -7,8 +7,7 @@ about me
   - learning: everything
   can do a bit of hmtl, css, c++, javascript, markdown, and python (DO NOT ASK ME ABOUT C# I AM IN PAIN)
 
-  - how to reach me: ON HITHER! NAY SOCIALS! mine own mother hath said nay s'rry
-  (eng: ON HERE! NO SOCIALS! my mom said no sorry)
+  - how to reach me: no (apologies)
 
 
 <!---
