@@ -1,14 +1,6 @@
 about me
-  
-  - pronouns: they/them
-  
-  - thumbs up emoji: games, pc, air conditioner, my special acquaintances
-
-  - learning: everything
-  can do a bit of html, css, c++, javascript, markdown, and python (DO NOT ASK ME ABOUT C# I AM IN PAIN)
-
-  - how to reach me: ON HITHER! NAY SOCIALS! mine own mother hath said nay apologies
-  (eng: ON HERE! NO SOCIALS! my mom said no sorry)
+  - cs student
+  - learning: everything (html, css, c++, javascript, and python)
 
 
 <!---
