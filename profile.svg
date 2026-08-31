@@ -5,24 +5,20 @@
   xmlns="http://www.w3.org/2000/svg"
 >
 
+  <!-- tail -->
+  <polygon
+    points="610,245 690,300 610,355"
+    fill="#eeeeee"
+  />
+
   <!-- bubble -->
   <rect
-    x="20"
+    x="30"
     y="50"
     width="600"
     height="400"
-    rx="50"
+    rx="40"
     fill="#eeeeee"
-    stroke="#555"
-    stroke-width="2"
-  />
-
-  <!-- tail -->
-  <polygon
-    points="610,270 680,320 610,370"
-    fill="#eeeeee"
-    stroke="#555"
-    stroke-width="2"
   />
 
   <!-- super awesome text  -->
@@ -31,14 +27,17 @@
     font-size="18"
     fill="#222"
   >
-    <text x="60" y="110">test</text>
-    <text x="60" y="145">test</text>
-    <text x="60" y="170">test</text>
-    <text x="60" y="215">test</text>
-    <text x="80" y="240">test</text>
-    <text x="80" y="265">test</text>
-    <text x="60" y="310">test</text>
-    <text x="80" y="335">test</text>
+    <text x="70" y="110">current student @ csulb</text>
+    <text x="70" y="145">cs major, cybersecurity minor</text>
+    <text x="70" y="170">100x crossword completer</text>
+    <text x="70" y="215">learning: Everything.</text>
+    <text x="90" y="240">(python, javascript, html, css, c++, c#,</text>
+    <text x="90" y="265">prolog and f# if anyone still uses that)</text>
+    <text x="90" y="290">(wireshark, splunk, catalyst, osint)</text>
+    
+    <text x="70" y="335">socials:</text>
+    <text x="90" y="380">no im not very social so its a work in progress</text>
+    <text x="70" y="405">credit for the little guy speaking: ME!!!!!</text>
   </g>
 
   <image
