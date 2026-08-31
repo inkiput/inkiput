@@ -1,9 +1,10 @@
-about me
-  - cs student
-  - learning: everything (html, css, c++, javascript, and python)
+<p align="center">
+  <img src="./profile.svg" width="900">
+</p>
 
 
 <!---
-inkiput/inkiput is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+about me
+  - cs student
+  - learning: everything (html, css, c++, javascript, and python)
 --->
