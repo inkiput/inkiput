@@ -38,17 +38,4 @@
     <text x="90" y="360">no im not very social so its a work in progress</text>
     <text x="70" y="405">drawing of the little guy speaking: ME!!!!!</text>
   </g>
-
-  <!--my individual drawing character-->
-  <!--
-  <image
-    href="./individualDrawingCharacter.png"
-    x="650"
-    y="20"
-    width="230"
-    height="560"
-    preserveAspectRatio="xMidYMid meet"
-  />
-  -->
-
 </svg>
